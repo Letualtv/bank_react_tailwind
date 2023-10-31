@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "El dinero es sólo una herramienta. Te llevará a donde quieras, pero no te reemplazará como conductor",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Fundador & CEO",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "El dinero te hace la vida más fácil. Si tienes suerte de tenerlo, tienes suerte",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Fundador & CEO",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Generalmente son las personas en el negocio monetario, las finanzas y el comercio internacional las que son realmente ricas.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Fundador & CEO",
     img: people03,
   },
 ];
@@ -90,35 +90,35 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Links",
     links: [
       {
-        name: "Content",
+        name: "Contenido",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Como funciona",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Crea",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Explora",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Terminos & Condiciones",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Comunidad",
     links: [
       {
-        name: "Help Center",
+        name: "Ayuda",
         link: "https://www.hoobank.com/help-center/",
       },
       {
@@ -126,7 +126,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Sugerencias",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -134,7 +134,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
+        name: "Noticias",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
@@ -143,11 +143,11 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Nuestros Partner",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Conviertete en Partner",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],

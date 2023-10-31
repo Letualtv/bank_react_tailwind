@@ -138,3 +138,9 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.imghover:hover {
+transform: scale(1.1);
+transition: transform 0.3s ease;
+filter: brightness(100);
+}
