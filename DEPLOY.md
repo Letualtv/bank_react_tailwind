@@ -9,7 +9,7 @@
 git init
 
 # Agregar el remoto
-git remote add origin https://github.com/TuUsuario/bank_react_tailwind.git
+git remote add origin https://github.com/Letualtv/bank_react_tailwind.git
 
 # Agregar todos los archivos
 git add .
@@ -34,7 +34,7 @@ git push -u origin main
 
 - Cada vez que hagas `git push` a `main` o `master`, se ejecutará automáticamente
 - El workflow construirá la aplicación y la desplegará en GitHub Pages
-- Tu sitio estará disponible en: `https://TuUsuario.github.io/bank_react_tailwind/`
+- Tu sitio estará disponible en: `https://Letualtv.github.io/bank_react_tailwind/`
 
 ---
 
@@ -59,7 +59,7 @@ El script `deploy` ya está configurado:
 npm run deploy
 ```
 
-Tu sitio estará disponible en: `https://TuUsuario.github.io/bank_react_tailwind/`
+Tu sitio estará disponible en: `https://Letualtv.github.io/bank_react_tailwind/`
 
 ---
 
@@ -123,4 +123,4 @@ Si es en el root (`tudominio.com`), deja `base: '/'` o sin comentar.
 
 ## 🎉 ¡Listo!
 
-Tu sitio está en vivo. Comparte la URL: `https://TuUsuario.github.io/bank_react_tailwind/`
+Tu sitio está en vivo. Comparte la URL: `https://Letualtv.github.io/bank_react_tailwind/`

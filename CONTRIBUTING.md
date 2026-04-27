@@ -51,7 +51,7 @@ La navbar se superpone sobre el contenido.
 ```bash
 # Fork el proyecto en GitHub
 # Clone tu fork
-git clone https://github.com/TuUsuario/bank_react_tailwind.git
+git clone https://github.com/Letualtv/bank_react_tailwind.git
 cd bank_react_tailwind
 ```
 

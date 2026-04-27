@@ -42,7 +42,7 @@ Una moderna landing page para una plataforma de pagos online, construida con Rea
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/TuUsuario/bank_react_tailwind.git
+git clone https://github.com/Letualtv/bank_react_tailwind.git
 cd bank_react_tailwind
 ```
 
@@ -129,7 +129,7 @@ Los estilos se encuentran principalmente en:
 
 1. **Configurar el repositorio**
 ```bash
-git remote add origin https://github.com/TuUsuario/bank_react_tailwind.git
+git remote add origin https://github.com/Letualtv/bank_react_tailwind.git
 ```
 
 2. **Crear archivo de workflow** `.github/workflows/deploy.yml`:
@@ -234,7 +234,7 @@ Desarrollado con ❤️
 
 ## 📞 Soporte
 
-¿Preguntas? Abre un [Issue](https://github.com/TuUsuario/bank_react_tailwind/issues) en el repositorio.
+¿Preguntas? Abre un [Issue](https://github.com/Letualtv/bank_react_tailwind/issues) en el repositorio.
 
 ---
 

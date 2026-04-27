@@ -8,7 +8,7 @@ Disallow: /node_modules/
 Disallow: /.git/
 Disallow: /.github/
 
-Sitemap: https://TuUsuario.github.io/bank_react_tailwind/sitemap.xml
+Sitemap: https://Letualtv.github.io/bank_react_tailwind/sitemap.xml
 
 # Google
 User-agent: Googlebot
