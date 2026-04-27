@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /assets/
+Allow: /src/
+
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.github/
+
+Sitemap: https://TuUsuario.github.io/bank_react_tailwind/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
